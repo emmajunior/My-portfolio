@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(8, 0, 0);
+}
+
+header{
+    background-color: rgb(2, 66, 10);
+    color: rgb(0, 6, 10);
+    padding: 8px;
+    margin: 0;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+ol{
+    display: flex;
+    list-style: none;
+}
+
+ol li{
+    margin-right: 30px;
+}
+
+main{
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(13, 88, 3);
+    width: 80%;
+    margin: 6%;
+    border-radius: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(1, 7, 3);
+}
+.wow{
+    width: 20%;
+}
